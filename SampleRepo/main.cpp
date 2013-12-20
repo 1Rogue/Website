@@ -14,7 +14,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     
-    cout << "tet";
+    cout << "test";
 
     return 0;
 }
